@@ -6,8 +6,11 @@ After running the code, you will be prompted to provide the time range you're in
 1. Online, you can only choose from three time ranges: month, six months, and all time. With this code, you can specify the exact range of time you want to analyze.
 2. This code includes an extra feature - the best albums - which is unique.
 3. It's more enjoyable to obtain your own statistics.
+
 Please note:
 To use this code, run the "app.py" file.
 This code uses MusicBrainz files, which are included. Alternatively, you can install them via pip. For more information, visit the MusicBrainz website.
 Once the data has been filtered, it is stored in the "data.json" file in the main folder. If you want to use this data without making any changes, you don't need to run lines 2-6 in the "app.py" file.
-I have included some samples in the "raw_data" folder that have been cleared of my personal information. If you use your own files, it is recommended that you uncomment lines 67-83 in "raw.py" to keep the files smaller.
+I have included some samples in the "raw_data" folder that have been cleared of my personal information. If you use your own files, it is recommended that you uncomment lines 67-83 in "raw.py" to keep the files smaller
+
+That's all for now. To create playlists, you need to use external apps, but I hope that this will change soon.
